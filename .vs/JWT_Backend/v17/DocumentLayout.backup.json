@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|c:\\users\\tarek.nageh\\desktop\\backjwt\\jwt_backend\\jwt_backend\\controllers\\athenticationtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|solutionrelative:jwt_backend\\controllers\\athenticationtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|c:\\users\\tarek.nageh\\desktop\\backjwt\\jwt_backend\\jwt_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|solutionrelative:jwt_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|c:\\users\\tarek.nageh\\desktop\\backjwt\\jwt_backend\\jwt_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|solutionrelative:jwt_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|c:\\users\\tarek.nageh\\desktop\\backjwt\\jwt_backend\\jwt_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|solutionrelative:jwt_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|c:\\users\\tarek.nageh\\desktop\\backjwt\\jwt_backend\\jwt_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E381D-3ED1-4216-A90C-8A24BF4284EE}|JWT_Backend\\JWT_Backend.csproj|solutionrelative:jwt_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "JWT_Backend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\WeatherForecast.cs",
+              "RelativeToolTip": "JWT_Backend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:10:10.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\appsettings.json",
+              "RelativeToolTip": "JWT_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T13:33:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JWT_Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JWT_Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:08:59.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:16:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AthenticationTestController.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\Controllers\\AthenticationTestController.cs",
+              "RelativeDocumentMoniker": "JWT_Backend\\Controllers\\AthenticationTestController.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\backJwt\\JWT_Backend\\JWT_Backend\\Controllers\\AthenticationTestController.cs",
+              "RelativeToolTip": "JWT_Backend\\Controllers\\AthenticationTestController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwLAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:16:40.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
